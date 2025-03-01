@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Junjie Shi"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "Junjie Shi /Chunkit Sze(施俊杰）"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Wuhan"
+  employer         : "Wuhan University"
   uri              : https://whusjj.github.io
-  email            : "none@example.org" 
+  email            : "2021312181232@whu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
